@@ -4,9 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node server/index",
-        "local": "nodemon server/index"
+        "start": "node src/index",
+        "local": "nodemon src/index"
     },
     "author": "Ricardo Mejias",
     "license": "ISC",
