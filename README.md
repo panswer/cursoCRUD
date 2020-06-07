@@ -19,6 +19,7 @@ Para iniciar un proyecto nuevo rapido se utiliza ```npm init -y```
  - nodemon: Este modulo nos ayuda en la parte de que constante mente se refresque y se reinicie el servidor despues de un cambio.
  - handlebars: este nos ayuda a que se corrija los errores de express-handlebars.
  - npm-check-updates: Este nos ayuda a verificar si existe una actualizacion o un nuevo modulo.
+ - morgan: es un middelware de express. Este middelware nos ayuda a ver que peticiones se realizan al servidor.
 
  ### Dependencia propia
  - colors: esta dependencia solo nos ayuda para darle color al texto que se muestre por consola de una forma facil.
